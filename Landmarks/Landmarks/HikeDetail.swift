@@ -36,6 +36,7 @@ struct HikeDetail: View {
                     }
                 }
             }
+            .padding(.top, 70)
         }
     }
 }
